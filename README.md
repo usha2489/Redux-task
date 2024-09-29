@@ -60,11 +60,4 @@ If you'd like to contribute to this project, please follow these steps:
 4. Push to your fork: `git push origin feature-name`
 5. Create a pull request to the main repository.
 
-## Author
 
-- [SHANMUGAM R](https://github.com/Shanmugamrskfamily/)
-- <i class="fa fa-linkdln"></i>[LinkedIn Profile](https://www.linkedin.com/in/shanmugamrskfamily/)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
